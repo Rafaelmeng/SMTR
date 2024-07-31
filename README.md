@@ -1,6 +1,10 @@
 Sistema de Monitoramento em Tempo Real, voltado para ISPs
 
-requirements:
+Requisitos:
 
-- Flask
-- python-dotenv
+- PRTG
+- Grafana
+- Python
+  - Flask
+  - python-dotenv
+  - requests
